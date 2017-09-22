@@ -1,1 +1,8 @@
-//CSS Beginnings
+canvas {
+  border: solid 1px black;
+  background-color: black;
+  box-shadow: 5px 8px 8px black;
+  position: relative;
+  width: 500px;
+  height: 500px;
+}
